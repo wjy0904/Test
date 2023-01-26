@@ -7,6 +7,7 @@ public class test {
 		System.out.println("This");
 		System.out.println("is");
 		System.out.println("Test");
+		System.out.println("Test2");
 	}
 
 }
